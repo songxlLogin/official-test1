@@ -3,5 +3,7 @@ class TestGit{
 		System.out.println("first commit");
 
 		System.out.println("second commit");
+
+		System.out.println("error commit");
 	}
 }
